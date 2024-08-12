@@ -4,13 +4,13 @@
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
-import {themes as prismThemes} from 'prism-react-renderer';
+import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Some samples by iltar',
   tagline: 'A sandbox for documentation',
-  favicon: './static/img/favicon.ico',
+  favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://iltar-docusaurus.samples.com',
@@ -70,27 +70,29 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: '表紙',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Front Logo',
           src: 'img/favicon.ico',
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Tutorial',
+            to: '/docs/intro', label: 'Docs', position: 'left'
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            to: '/links', label: 'Links', position: 'left'
+          },
+          {
+            to: '/blog', label: 'Blog', position: 'left'
+          },
+          {
+            href: 'https://github.com/iltars/Docusaurus/tree/august',
             label: 'GitHub',
             position: 'right',
           },
         ],
       },
-      
+
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,

@@ -1,25 +1,9 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
-
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
+iltars:
+  name: Ilia Tarasov
+  title: Archive maintainer
+  url: https://www.linkedin.com/in/ilya-s-tarasov/,
+  image_url: https://media.licdn.com/dms/image/v2/D5603AQHkiBkuAYIPIg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1718617521987?e=1728518400&v=beta&t=68zeXMH5bJPpWhJW7Oh0KKm7xuSHp8cAnOoTQPocszo
   socials:
-    x: yangshunz
-    github: yangshun
-
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
-  socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com
+    linkedin: ilya-s-tarasov
+    github: iltars
+    confluence: https://privaterelay-team-pqs6215g.atlassian.net/wiki/spaces/~60caf16fa01e11006a985e96/pages/5406722/A+documentation+overview

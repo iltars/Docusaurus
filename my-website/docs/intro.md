@@ -2,9 +2,13 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Documentation overview
 
-Let's discover **Docusaurus in less than 5 minutes**.
+:::info
+
+Some **content** with _Markdown_ `syntax`. Check [this `api`](#).
+
+:::
 
 ## Getting Started
 

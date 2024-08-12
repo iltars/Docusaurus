@@ -6,7 +6,7 @@
 export default {
   "title": "Some samples by iltar",
   "tagline": "A sandbox for documentation",
-  "favicon": "./static/img/favicon.ico",
+  "favicon": "img/favicon.ico",
   "url": "https://iltar-docusaurus.samples.com",
   "baseUrl": "/",
   "organizationName": "iltars",
@@ -49,25 +49,24 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "My Site",
+      "title": "表紙",
       "logo": {
-        "alt": "My Site Logo",
+        "alt": "Front Logo",
         "src": "img/favicon.ico"
       },
       "items": [
         {
-          "type": "docSidebar",
-          "sidebarId": "tutorialSidebar",
-          "position": "left",
-          "label": "Tutorial"
-        },
-        {
-          "to": "/blog",
-          "label": "Blog",
+          "to": "/docs/intro",
+          "label": "Docs",
           "position": "left"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
+          "to": "/blog",
+          "label": "About",
+          "position": "left"
+        },
+        {
+          "href": "https://github.com/iltars/Docusaurus/tree/august",
           "label": "GitHub",
           "position": "right"
         }

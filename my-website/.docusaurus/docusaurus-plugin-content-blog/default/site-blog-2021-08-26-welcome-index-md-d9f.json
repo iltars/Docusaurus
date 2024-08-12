@@ -8,12 +8,6 @@
   "tags": [
     {
       "inline": false,
-      "label": "Facebook",
-      "permalink": "/blog/tags/facebook",
-      "description": "Facebook tag description"
-    },
-    {
-      "inline": false,
       "label": "Hello",
       "permalink": "/blog/tags/hello",
       "description": "Hello tag description"
@@ -29,29 +23,16 @@
   "hasTruncateMarker": false,
   "authors": [
     {
-      "name": "Sébastien Lorber",
-      "title": "Docusaurus maintainer",
-      "url": "https://sebastienlorber.com",
+      "name": "Ilia Tarasov",
+      "title": "Archive maintainer",
+      "url": "https://www.linkedin.com/in/ilya-s-tarasov/,",
       "socials": {
-        "x": "https://x.com/sebastienlorber",
-        "linkedin": "https://www.linkedin.com/in/sebastienlorber/",
-        "github": "https://github.com/slorber",
-        "newsletter": "https://thisweekinreact.com"
+        "linkedin": "https://www.linkedin.com/in/ilya-s-tarasov/",
+        "github": "https://github.com/iltars",
+        "confluence": "https://privaterelay-team-pqs6215g.atlassian.net/wiki/spaces/~60caf16fa01e11006a985e96/pages/5406722/A+documentation+overview"
       },
-      "imageURL": "https://github.com/slorber.png",
-      "key": "slorber",
-      "page": null
-    },
-    {
-      "name": "Yangshun Tay",
-      "title": "Front End Engineer @ Facebook",
-      "url": "https://github.com/yangshun",
-      "socials": {
-        "x": "https://x.com/yangshunz",
-        "github": "https://github.com/yangshun"
-      },
-      "imageURL": "https://github.com/yangshun.png",
-      "key": "yangshun",
+      "imageURL": "https://media.licdn.com/dms/image/v2/D5603AQHkiBkuAYIPIg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1718617521987?e=1728518400&v=beta&t=68zeXMH5bJPpWhJW7Oh0KKm7xuSHp8cAnOoTQPocszo",
+      "key": "iltars",
       "page": null
     }
   ],
@@ -59,11 +40,9 @@
     "slug": "welcome",
     "title": "Welcome",
     "authors": [
-      "slorber",
-      "yangshun"
+      "iltars"
     ],
     "tags": [
-      "facebook",
       "hello",
       "docusaurus"
     ]
