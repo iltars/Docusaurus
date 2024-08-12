@@ -1,0 +1,27 @@
+{
+  "id": "pipeline-services/administration-guide",
+  "title": "System Administration Guide",
+  "description": "This article describes scenarios for administering a software component - Deploy tools (CDJE).",
+  "source": "@site/docs/pipeline-services/administration-guide.md",
+  "sourceDirName": "pipeline-services",
+  "slug": "/pipeline-services/administration-guide",
+  "permalink": "/docs/pipeline-services/administration-guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/pipeline-services/administration-guide.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Microservices deployment",
+    "permalink": "/docs/category/microservices-deployment"
+  },
+  "next": {
+    "title": "Salesforce guides",
+    "permalink": "/docs/category/salesforce-guides"
+  }
+}

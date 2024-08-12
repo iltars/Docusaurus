@@ -8,8 +8,8 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Some samples by iltar',
-  tagline: 'A sandbox for documentation',
+  title: 'A test portfolio built on the open-source Docusaurus platform',
+  tagline: 'A sandbox for documentation by Ilia Tarasov',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -70,7 +70,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: '表紙',
+        title: 'Home',
         logo: {
           alt: 'Front Logo',
           src: 'img/favicon.ico',
@@ -78,9 +78,6 @@ const config = {
         items: [
           {
             to: '/docs/intro', label: 'Docs', position: 'left'
-          },
-          {
-            to: '/links', label: 'Links', position: 'left'
           },
           {
             to: '/blog', label: 'Blog', position: 'left'

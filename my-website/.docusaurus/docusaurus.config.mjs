@@ -4,8 +4,8 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "Some samples by iltar",
-  "tagline": "A sandbox for documentation",
+  "title": "A test portfolio built on the open-source Docusaurus platform",
+  "tagline": "A sandbox for documentation by Ilia Tarasov",
   "favicon": "img/favicon.ico",
   "url": "https://iltar-docusaurus.samples.com",
   "baseUrl": "/",
@@ -49,7 +49,7 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "表紙",
+      "title": "Home",
       "logo": {
         "alt": "Front Logo",
         "src": "img/favicon.ico"
@@ -62,7 +62,7 @@ export default {
         },
         {
           "to": "/blog",
-          "label": "About",
+          "label": "Blog",
           "position": "left"
         },
         {

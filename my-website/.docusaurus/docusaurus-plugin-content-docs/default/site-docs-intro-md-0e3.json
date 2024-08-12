@@ -1,7 +1,7 @@
 {
   "id": "intro",
   "title": "Documentation overview",
-  "description": "Some content with Markdown syntax. Check this api.",
+  "description": "This page will gradually be filled with transferable content, including experiments with styling in MXD and transitions through the execution of JS hooks.",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
@@ -17,7 +17,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Tutorial - Basics",
-    "permalink": "/docs/category/tutorial---basics"
+    "title": "Microservices deployment",
+    "permalink": "/docs/category/microservices-deployment"
   }
 }

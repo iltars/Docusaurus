@@ -9,8 +9,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_factory_dy-0-a.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        A technical document example created for an engineering company, providing an overview of a measuring device along with the accompanying software.
         <div style={{ marginTop: '20px' }}>
         <a
           href="https://privaterelay-team-pqs6215g.atlassian.net/wiki/external/NDk2ZGJmMTJhYTQ3NGQyOWFjM2FjZTljMjg4MmNlMGQ"
@@ -40,8 +39,8 @@ const FeatureList = [
             src={require('@site/static/img/confluence-svgrepo-com.png').default}
             alt="Confluence" // Provide alt text for accessibility
             style={{
-              width: '18px', // Adjust the size as needed
-              height: '18px', // Adjust the size as needed
+              width: '18px', 
+              height: '18px', 
               marginLeft: '10px', // Space between text and image
               color: 'white'
 
@@ -57,8 +56,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_thought_process_re_om518.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Examples of technical documentation I've created during my work in IT companies that include an overview of the setup of objects for the Salesforce platform and microservices description executed by Jenkins pipeline.
         <div style={{ marginTop: '20px' }}>
           <Link
             to="/docs/intro"
@@ -90,8 +88,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_design_components_9vy6.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Mockups and end user feedback suggestions gathered during the design phase of the Salesforce based iPad application for big retail companies.
         <div style={{ marginTop: '20px' }}>
           <button 
             disabled // Add 'onClick' attribute later to make the button inactive

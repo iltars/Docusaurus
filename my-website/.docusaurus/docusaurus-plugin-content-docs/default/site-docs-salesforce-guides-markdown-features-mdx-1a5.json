@@ -1,0 +1,23 @@
+{
+  "id": "salesforce-guides/markdown-features",
+  "title": "Docusaurus Cheat Sheet",
+  "description": "Temporary: A reference page.",
+  "source": "@site/docs/salesforce-guides/markdown-features.mdx",
+  "sourceDirName": "salesforce-guides",
+  "slug": "/salesforce-guides/markdown-features",
+  "permalink": "/docs/salesforce-guides/markdown-features",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/salesforce-guides/markdown-features.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Order Creation",
+    "permalink": "/docs/salesforce-guides/Creating_an_Offline_Order"
+  }
+}
